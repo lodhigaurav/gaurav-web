@@ -1533,3 +1533,7 @@ button:hover span.star i{
 .gorav-project{
   background-color: #65ba3b;
 }
+.name h1{
+  background-color: red;
+  font-size: 30px;
+}
