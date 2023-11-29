@@ -1537,3 +1537,6 @@ button:hover span.star i{
   background-color: red;
   font-size: 30px;
 }
+.text p{
+  background-color: blue;
+}
