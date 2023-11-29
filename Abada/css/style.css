@@ -1540,3 +1540,35 @@ button:hover span.star i{
 .text p{
   background-color: blue;
 }
+.bottom-header1{
+  width: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  background-color: aqua;
+  padding: 20px;
+}
+.logo{
+  width: auto;
+  float: left;
+}
+.logo img{
+width: 100%;
+}
+.menus{
+  width: auto;
+  float: right;
+}
+.menus ul li{
+  display: inline-block;
+  padding-right: 20px;
+}
+.menus ul li a{
+  text-decoration: none;
+  text-transform: capitalize;
+  font-size: 20px;
+  font-weight: arial;
+  font-weight: 700;
+  color: black;
+  display: inline-block;
+}
